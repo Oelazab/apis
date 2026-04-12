@@ -1,0 +1,9 @@
+{
+  "employees": [
+    {"name": "Alice Johnson", "role": "Engineer", "id": 101},
+    {"name": "Bob Smith", "role": "Manager", "id": 102},
+    {"name": "Carol Davis", "role": "Designer", "id": 103},
+    {"name": "David Brown", "role": "Sales", "id": 104},
+    {"name": "Eva White", "role": "Engineer", "id": 105}
+  ]
+}
