@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalog version="1.0">
+    <products>
+        <product id="101" currency="USD">
+            <name>Laptop</name>
+            <price>899.99</price>
+            <stock>50</stock>
+            <discount>0</discount>
+        </product>
+        <product id="102" currency="USD">
+            <name>Mouse</name>
+            <price>29.99</price>
+            <stock>200</stock>
+            <discount>0</discount>
+        </product>
+    </products>
+</catalog>

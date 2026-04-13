@@ -1,0 +1,14 @@
+<library>
+    <book id="1" genre="fiction">
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+        <price>12.99</price>
+    </book>
+    <book id="2" genre="science">
+        <title>A Brief History of Time</title>
+        <author>Stephen Hawking</author>
+        <year>1988</year>
+        <price>15.50</price>
+    </book>
+</library>
